@@ -16,12 +16,7 @@ So let's try to read the metadata of it using exiftool.
 ![image](https://github.com/AbdullahSGF/BlackHatMEA-Qualifications-CTF/assets/131845686/5962233b-26ef-487a-ae57-70df799bd5b0)
 
  
-After running exiftool we noticed a link attached in the comment section.
-
-
-![image](https://github.com/AbdullahSGF/BlackHatMEA-Qualifications-CTF/assets/131845686/c049c387-dc55-4aac-9c0e-61d6315288ad)
-
- 
+After running exiftool we noticed a link attached in the comment section. 
 Following that link will lead us to a website.
 
 
