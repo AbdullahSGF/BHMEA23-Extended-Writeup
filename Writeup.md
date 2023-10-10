@@ -23,7 +23,7 @@ Following that link will lead us to a website.
 ![image](https://github.com/AbdullahSGF/BlackHatMEA-Qualifications-CTF/assets/131845686/3a384196-4fe1-4ea6-9514-e101a33d49b9)
 
 
-At first people thought this is an OSINT challenge, but we can in the bottom it says find more data somewhere here. So how we can find more data in this page? We can see that the website is running from a github repository.
+At first people thought this is an OSINT challenge, but we can see in the bottom of the page it says find more data somewhere here. So how we can find more data in this page? We can see that the website is running from a github repository.
 
 
 ![image](https://github.com/AbdullahSGF/BlackHatMEA-Qualifications-CTF/assets/131845686/12122fe8-1811-424e-88f3-881cf294f093)
@@ -37,7 +37,7 @@ Let’s try to search for it in github.
 
 
  
-After we found we can see there is a file called fulldata, and that file contains a Pastebin link says more data.
+After we found it we can see there is a file called fulldata, and that file contains a Pastebin link says more data.
 
 
  ![image](https://github.com/AbdullahSGF/BlackHatMEA-Qualifications-CTF/assets/131845686/5b6085ac-8600-452a-bedb-ea2d334ae1a5)
