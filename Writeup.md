@@ -68,7 +68,7 @@ After opening the file we have noticed that the file is a Google chrome profile 
 ![image](https://github.com/AbdullahSGF/BlackHatMEA-Qualifications-CTF/assets/131845686/dfbf9d07-fc26-4719-8f51-01b103c1dcba)
 
 
-So let’s navigate to Default folder which is contains the most important information.
+So let’s navigate to Default folder which it contains the most important information.
 
 
  ![image](https://github.com/AbdullahSGF/BlackHatMEA-Qualifications-CTF/assets/131845686/36a3b237-ae78-4568-815b-cbc35c8a3209)
