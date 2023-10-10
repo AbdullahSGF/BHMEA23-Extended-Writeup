@@ -1,4 +1,9 @@
+![image](https://github.com/AbdullahSGF/BHMEA23-Extended-Writeup/assets/131845686/70f79eb5-0537-4bab-ac0c-c9995c045a09)
+
+
+
 ![image](https://github.com/AbdullahSGF/BlackHatMEA-Qualifications-CTF/assets/131845686/b4f8b033-fd5d-4dd2-a929-ead0663ea4b6)
+
  
 After downloading the file we will see an image and from the description of the challenge we can assure that the image contains something.
 
