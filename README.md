@@ -1,1 +1,0 @@
-# BlackHatMEA-Qualifications-CTF
