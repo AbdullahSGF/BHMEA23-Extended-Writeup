@@ -79,7 +79,7 @@ So let’s navigate to Default folder which it contains the most important infor
 Usually when we investigate a browser profile folder the first thing we do is to go to History database file (DB) or any DB files in general, but in this challenge we haven’t find anything suspicious in them. So I remembered the challenge name which is “Extended” so it has something to do with the Extensions. Let’s check the Extensions file.
 ![image](https://github.com/AbdullahSGF/BlackHatMEA-Qualifications-CTF/assets/131845686/ca6cd454-8dad-4711-83e9-e10c7235f999)
 
-![image](https://github.com/AbdullahSGF/BlackHatMEA-Qualifications-CTF/assets/131845686/9b54162b-6de0-4f3d-a1dd-e7bcf2776a1f)
+
 
  
  
